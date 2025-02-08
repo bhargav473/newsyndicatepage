@@ -422,7 +422,7 @@
   .pading-mobile {
     padding-bottom: 50px !important;
   }
-  .mobile_size {
+  .mobile_size a {
     font-size: 55px;
   }
 }
