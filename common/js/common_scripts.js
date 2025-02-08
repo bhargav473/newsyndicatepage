@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Hubfolio
+    Theme Name: syndicate
     Theme URI: http://
     Description: Creative Agency & Portfolio
     Author: syndicate
